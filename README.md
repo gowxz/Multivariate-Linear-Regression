@@ -1,4 +1,4 @@
-# Implementation of Multivariate Linear Regression
+# EX:10.Implementation of Multivariate Linear Regression
 # Date:
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
